@@ -1,1 +1,1 @@
-Hi everyone. My name is Javeria and I'm an Engineer by profession. I will be responsible for ruining this repo ^_^
+Congratulations to whole pakistan for winning olympic medal in javelin throw.
