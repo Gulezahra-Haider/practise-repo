@@ -22,6 +22,8 @@ int main()
   {
     cout << *(vect1_iter) << " ";
   }
+  
+  cout << "HELLO I AM HERE" << endl;
 
 
     
