@@ -24,7 +24,7 @@ int main()
   }
   
   cout << "HELLO I AM HERE" << endl;
-
+  cout << "testing checkout commit ids" << endl;
 
     
   return 0;
