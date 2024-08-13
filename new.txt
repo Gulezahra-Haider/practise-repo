@@ -1,1 +1,2 @@
 testing stash for untracked files
+now testing stash for tracked files
