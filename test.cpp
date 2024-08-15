@@ -13,9 +13,9 @@ int main()
 
 
   vector<int> vect1, vect2;
-  vect1.push_back(3);
-  vect1.push_back(30);
-  vect1.push_back(50);
+  vect1.push_back(100);
+  vect1.push_back(200);
+  vect1.push_back(300);
 
   cout << "Printing Vector 1" << endl;
   
