@@ -14,7 +14,7 @@ int main()
 
   vector<int> vect1, vect2;
   vect1.push_back(3);
-  vect1.push_back(40);
+  vect1.push_back(30);
   vect1.push_back(50);
 
   cout << "Printing Vector 1" << endl;
